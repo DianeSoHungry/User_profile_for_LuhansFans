@@ -34,7 +34,11 @@ Shen Li, Zhe Zhao, Renfen Hu, Wensi Li, Tao Liu, Xiaoyong Du, [Analogical Reason
 
 # 作者
 胡青云：算法工程师
+
 张耀：爬虫工程师
+
 郑嘉宇：爬虫工程师兼组长
+
 杨艺：需求分析师
+
 聂旗:项目顾问
