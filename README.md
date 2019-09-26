@@ -13,7 +13,7 @@ df["id"] = df["id"]//10000
 df["type"] = df["type"] + "粉"
 df.head()
 ```
-<div align=left>![demo](./docs/images/demo1.png)
+![demo](./docs/images/demo1.png)
 
 
 # 依赖
@@ -31,8 +31,3 @@ df.head()
 本项目使用的预训练语料库基于微博文本而建立。(Word + Character + Ngram)
 
 Shen Li, Zhe Zhao, Renfen Hu, Wensi Li, Tao Liu, Xiaoyong Du, [Analogical Reasoning on Chinese Morphological and Semantic Relations](http://aclweb.org/anthology/P18-2023), ACL 2018.
-
-
-
-
-
